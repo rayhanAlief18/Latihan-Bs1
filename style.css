@@ -1,0 +1,87 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;1,300&family=Righteous&family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Poppins:ital,wght@0,300;0,400;1,300&family=Righteous&family=Rubik&display=swap');
+
+html{
+	scroll-behavior: smooth;
+
+}
+
+.colornav{
+	background-color: #2F7E7D;
+
+}
+
+.colorjum{
+	background-color: #F8F0DF;
+
+}
+
+.textjum1{
+	margin-top: 10px;
+	font-family: 'Poppins', sans-serif;
+	font-family: 'Righteous', cursive;
+	font-family: 'Rubik', sans-serif;
+}
+
+.textjum2{
+	font-family: 'Open Sans', sans-serif;
+	font-family: 'Poppins', sans-serif;
+	font-family: 'Righteous', cursive;
+	font-family: 'Rubik', sans-serif;
+}
+
+.daily{
+	margin-top: -32px;
+}
+
+.aboutjudul	{
+	text-decoration: underline;
+	text-decoration-color: #2F7E7D ;
+	font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Righteous', cursive;
+font-family: 'Rubik', sans-serif;
+}
+.backgroundtext{
+	background-color:#2F7E7D ;
+}
+
+.tes{
+	margin-top: -1.8%;
+	font-size: 20px;
+}
+
+.paragraf{
+	margin-top: 20px;
+	font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Righteous', cursive;
+font-family: 'Rubik', sans-serif;
+}
+
+.green{
+	background-color:rgb(255, 223, 155) ;
+}
+
+.warnaloc{
+	background-color:#F8F0DF ;
+}
+.warnaloc2{
+	background-color:#2f7e7d ;
+}
+.colorfut{
+	background-color:#2F7E7D ;
+}
+
+@media (max-width: 575.98px) {
+
+	.textjum1{
+		font-size: 30px;
+	}
+	.textjum2{
+		font-size: 15px;
+		margin-top: -11px;
+	}
+
+}
